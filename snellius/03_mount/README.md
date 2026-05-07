@@ -25,7 +25,7 @@ Now you can access the files on snellius on your local computer as normal, for e
 ls ~/mnt/
 ```
 
-Use VS Code or your favorite EDI to edit/create and files. This is much easier than working in the command line if you are not used to that. However, to run the files you sill need to use an separate ssh connection with snellius as discussed in previously.
+Use VS Code or your favorite EDI to edit/create files. This is much easier than working in the command line if you are not used to that. However, to run the files you sill need to use a separate ssh connection with snellius as discussed previously.
 
 When you are done, unmount the mount point with:
 
