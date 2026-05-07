@@ -9,5 +9,4 @@
 module load 2025
 module load CUDA/12.9.1
 
-nvidia-smi
 srun EXECUTABLE
