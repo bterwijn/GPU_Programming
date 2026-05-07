@@ -8,18 +8,18 @@ nvcc hello.cu -o hello
 Submit it as job with: 
 
 ```
-sbatch hello.sh
+./runjob.sh hello
 ```
 
 This schedules the job, which might take a bit of time to complete.
 When completed it should produce an output file something like 'slurm-22569159.out' in the currents directory:
 
 ```
-ls -l *.out
+ls -ltr *.out
 ```
 
-Print the output file as:
+Print the content of output file with:
 
 ```
-cat <some-output-file.out>
+cat <output-file.out>
 ```
