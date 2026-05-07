@@ -12,7 +12,7 @@ module load 2025
 module load CUDA/12.9.1
 ```
 
-Get the files in this git repo on snellius with:
+Git clone the files in this git repo on snellius with:
 
 ```
 git clone https://github.com/bterwijn/GPU_Programming.git
@@ -25,4 +25,4 @@ cd GPU_Programming/snellius/
 ls
 ```
 
-and continue on GitHub by clicking and reading the subdirectories to run the examples.
+and continue on the GitHub website by clicking and reading the subdirectories above (01_hello, etc.) to run the examples.

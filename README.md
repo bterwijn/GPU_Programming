@@ -11,6 +11,7 @@ Assignment4 on **Google Colab**, free account with limitations:
 - click 'Open in Colab'
 - follow the instructions to run the 'vec_add_gpu3.cu' example
 
+
 Assignment4 on **Snellius**, UvA pays for computing resources:
 
 - click the 'snellius' directory above and follow the instructions
